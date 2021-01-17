@@ -1,0 +1,10 @@
+I tried about this two queries but i didnt get the approximate solutions.
+and also i didnt get how to solve this questions..
+
+8. Display the number of days between system date and 1st January 1995.
+
+9. Display how many employees joined in each month of the current year.
+
+
+
+Other than this i completed all other assignments including java questions.
