@@ -14,7 +14,7 @@ MYSQL ASSIGNMENT STATUS:
 Select clause with where clause : completed
 Aggregate : completed
 DDL and DML : completed
-Functions : completed 
+Functions : completed(2 Queries Pending)
 Joins : completed
 Sub-Query : completed
 __________________________________________________________________________________________________
@@ -26,3 +26,4 @@ Assignment-2[Employee Deatils] : completed
 Assignment-3[Employee class Details]: completed
 Assignment-4[Designation of employees] : completed
 Assignment-5[Student deatails using Array object]: completed
+Mini project: working
